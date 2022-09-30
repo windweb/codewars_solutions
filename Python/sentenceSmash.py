@@ -3,12 +3,12 @@ words = ['hello', 'world', 'this', 'is', 'great']
 
 def smash(words):
     result = ""
-    for i in range(len(words)):
-        if i != len(words)-1:
-            result = result + words[i] + " "
+    for index in range(len(words)):
+        if index != len(words)-1:
+            result = result + words[index] + " "
         else:
-            result = result + words[i]
-    return print(result)
+            result = result + words[index]
+    return result
 
 
 smash(words)

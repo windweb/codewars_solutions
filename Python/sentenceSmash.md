@@ -12,28 +12,15 @@ smash(words) # returns ```hello world this is great```
 ```python
 def smash(words):
     result = ""
-    for i in range(len(words)):
-        if i != len(words)-1:
-            result = result + words[i] + " "
+    for index in range(len(words)):
+        if index != len(words)-1:
+            result = result + words[index] + " "
         else:
-            result = result + words[i]
-    return result              
-```
-
-**Second Solution:**
-```python
-def smash(words):
-    # Begin here
-    result = ""
-    for i in range(len(words)):
-        if i != len(words)-1:
-            result = result + words[i] + " "
-        else:
-            result = result + words[i]
+            result = result + words[index]
     return result           
 ```
 
-**Third Solution:**
+**Second Solution:**
 ```python
 def smash(words):
   return " ".join(words);  
