@@ -10,4 +10,4 @@ Codewars profile: https://www.codewars.com/users/windweb . Follow me!
 
 ## Python Solutions
 
- * [**Sentence Smash**](Python/sentenceSmash.md)
+ * [**Sentence Smash**](Python/sentence_smash.md)
