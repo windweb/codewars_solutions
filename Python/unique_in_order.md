@@ -11,7 +11,14 @@ unique_in_order([1,2,2,3,3])       == [1,2,3]
 
 ```python
 def unique_in_order(iterable):
-    # here tour code
-    pass
-
+    previous_item = ""
+    result = []
+    for item in iterable:
+        if item != previous_item:
+            result.append(item)
+        previous_item = item
+    return result
 ```
+
+
+Codewars source [link](https://www.codewars.com/kata/54e6533c92449cc251001667/train/python)
