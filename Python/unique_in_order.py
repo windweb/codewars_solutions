@@ -10,8 +10,7 @@ def unique_in_order(iterable):
         if item != previous_item:
             result.append(item)
         previous_item = item
-    return result
-    print(uniques)
+    print(result)
 
 
 unique_in_order(iterable)
