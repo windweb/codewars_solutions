@@ -21,3 +21,5 @@ Codewars profile: https://www.codewars.com/users/windweb . Follow me!
  * [**Are You Playing Banjo?**](Python/Are_You_Playing_Banjo.md)
  * [**Beginner Series #1 School Paperwork**](Python/Beginner_Series_#1_School_Paperwork.md)
  * [**Sum Arrays**](Python/Sum_Arrays.md)
+ * **<...>**
+ * **Profit!**
