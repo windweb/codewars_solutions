@@ -10,5 +10,11 @@ Codewars profile: https://www.codewars.com/users/windweb . Follow me!
 
 ## Python Solutions
 
- * [**Sentence Smash**](Python/sentence_smash.md)
+### ****<6 kyu>****
+
  * [**Unique In Order**](Python/unique_in_order.md)
+
+### ****<8 kyu>****
+
+ * [**Sentence Smash**](Python/sentence_smash.md)
+ * [**Convert a Number to a String!**](Python/Convert_a_Number_to_a_String.md)
