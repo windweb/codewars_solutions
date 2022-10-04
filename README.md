@@ -14,6 +14,10 @@ Codewars profile: https://www.codewars.com/users/windweb . Follow me!
 
  * [**Unique In Order**](Python/unique_in_order.md)
 
+### ****<7 kyu>****
+
+ * [**Beginner Series #3 Sum of Numbers**](Python/sum_of_numbers.md)
+
 ### ****<8 kyu>****
 
  * [**Sentence Smash**](Python/sentence_smash.md)
