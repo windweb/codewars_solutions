@@ -45,3 +45,4 @@ def count_smileys(arr):
     return count_smile
 ```
 
+Codewars source [link](https://www.codewars.com/kata/583203e6eb35d7980400002a/train/python)
