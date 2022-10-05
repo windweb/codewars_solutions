@@ -13,6 +13,7 @@ Codewars profile: https://www.codewars.com/users/windweb . Follow me!
 ### ****<6 kyu>****
 
  * [**Unique In Order**](Python/unique_in_order.md)
+ * [**Count the smiley faces!**](Python/count_the_smiley_faces.md)
 
 ### ****<7 kyu>****
 
