@@ -1,4 +1,4 @@
-
+example:
 ## Next solution
 ```python
 def opposite(n):
